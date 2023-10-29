@@ -1,6 +1,6 @@
 # CREDIT CARD FRAUD DETECTION
 
-# DESCRYPTION
+# DESCRIPTION
 
   Credit-Card-Fraud-Detection
 It is Based on Anamoly Detection and by Using Deep Learning Model SOM which is an Unsupervised Learning Method to find patterns followed by the fraudsters.
@@ -34,16 +34,6 @@ import matplotlib.pyplot as plt
         
 plt.show()
 
- # OUTPUT
-
- ![IMG-20231028-WA0006](https://github.com/abinaya8524hema/NewCodingBot/assets/146074379/7931e80d-cbfc-4661-a012-fa4ec35cb6b1)
- 
-![IMG-20231028-WA0007](https://github.com/abinaya8524hema/NewCodingBot/assets/146074379/dc5fe33f-864f-4d31-a75c-a48d802535d2)
-
-
-# RESULT
-
-This code loads the dataset, preprocesses the data, trains a Random Forest classifier, and evaluates the model. It also visualizes the confusion matrix for a better understanding of the results. Keep in mind that this is a simplified example, and a real-world fraud detection system would require more advanced techniques and a larger dataset.
 
 
 
