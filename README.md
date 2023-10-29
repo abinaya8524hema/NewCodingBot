@@ -34,6 +34,9 @@ plt.show()
 
 This code loads the dataset, preprocesses the data, trains a Random Forest classifier, and evaluates the model. It also visualizes the confusion matrix for a better understanding of the results. Keep in mind that this is a simplified example, and a real-world fraud detection system would require more advanced techniques and a larger dataset.
 
+# RESULTS
+
+ 
 
 
 
