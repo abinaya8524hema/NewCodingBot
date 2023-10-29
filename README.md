@@ -26,13 +26,13 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 1.We using the vscode for run the program
 
-2. Import the libraries for numpy,pandas and sklearn in lib
+2.Import the libraries for numpy,pandas and sklearn in lib
 
-3. Load the datasets
+3.Load the datasets
 
 4.Data preprocessing for the dataset
 
-5. Next split the data into training and testing sets
+5.Next split the data into training and testing sets
   
 6.Create and train the model
 
