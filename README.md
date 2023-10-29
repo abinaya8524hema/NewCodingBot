@@ -22,17 +22,17 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
  Please make sure you have the necessary libraries installed, like scikit-learn, pandas, and matplotlib, and that you have the dataset downloaded.
 
- # PROGRAM FOR EXAMPLE
- 
-python
-Import necessary libraries
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-import matplotlib.pyplot as plt
-        
-plt.show()
+ # STEPS TO RUN THE PROJECT
+
+1.We using the vscode for run the program
+2. Import the libraries
+3. Load the dataset
+4. Data preprocessing for dataset
+5. Next split the data into training and testing sets
+6..Create and train the model
+7.Make the predictions on the test set
+8.Evaluate on the model accuracy
+9.Visulaize the confusion matrix and then get output
 
 
 
