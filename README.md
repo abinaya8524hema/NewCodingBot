@@ -40,8 +40,7 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 8.Evaluate on the model accuracy
 
-9.Visulaize the confusion matrix and then get output
-
+9.Visulaize the confusion matrix and then get output.
 
 
 
