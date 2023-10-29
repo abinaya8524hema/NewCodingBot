@@ -24,7 +24,7 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
  # STEPS TO RUN THE PROJECT
 
-  1.We using the vscode for run the program
+1.We using the vscode for run the program
 
 2. Import the libraries for numpy,pandas and sklearn in lib
 
@@ -33,14 +33,14 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 4.Data preprocessing for the dataset
 
 5. Next split the data into training and testing sets
+  
+6.Create and train the model
 
-  6.Create and train the model
+7.Make the predictions on the test set
 
-  7.Make the predictions on the test set
+8.Evaluate on the model accuracy
 
-  8.Evaluate on the model accuracy
-
-  9.Visulaize the confusion matrix and then get output
+9.Visulaize the confusion matrix and then get output
 
 
 
