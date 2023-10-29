@@ -1,18 +1,56 @@
-# Credit-Card-Fraud-Detection
-It is Based on Anamoly Detection and by Using Deep Learning Model SOM which is an Unsupervised Learning Method to find patterns followed by the fraudsters
+# CREDIT CARD FRAUD DETECTION
+
+# DESCRYPTION
+
+  Credit-Card-Fraud-Detection
+It is Based on Anamoly Detection and by Using Deep Learning Model SOM which is an Unsupervised Learning Method to find patterns followed by the fraudsters.
+
+   Creating a credit card fraud detection program in Python that uses a dataset and provides output is a complex task. Below is a simplified example that you can use as a starting point. We'll use the Credit Card Fraud Detection dataset from Kaggle, which contains labeled credit card transaction data.
 
 
-# Description
-# Context
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+# DATA SET ANALYSIS
 
-# Content
-The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+This problem has been picked from
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-It contains only numerical input variables which are the result of a PCA transformation. Unfortunately, due to confidentiality issues, we cannot provide the original features and more background information about the data. Features V1, V2, ... V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
-# Inspiration
-Identify fraudulent credit card transactions.
+# SOFTWARE
 
-Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
+ Then it can be more softwares are using from this project to a program run it easy for softwares are word, excel, microsoft windows, jupyter in firefox.
+
+# INSTALLATION
+
+ Please make sure you have the necessary libraries installed, like scikit-learn, pandas, and matplotlib, and that you have the dataset downloaded.
+ 
+python
+Import necessary libraries
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+import matplotlib.pyplot as plt
+        
+plt.show()
+
+This code loads the dataset, preprocesses the data, trains a Random Forest classifier, and evaluates the model. It also visualizes the confusion matrix for a better understanding of the results. Keep in mind that this is a simplified example, and a real-world fraud detection system would require more advanced techniques and a larger dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
